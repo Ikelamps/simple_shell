@@ -1,5 +1,5 @@
 #include "shell.h"
-/*Team Project By Isaac Akom Lamptey and Ibee Umar*/ 
+/*Team Project By Isaac Akom Lamptey and Ibee Umar*/
 
 /**
  * interactive - returns true if shell is interactive mode
